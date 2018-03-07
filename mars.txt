@@ -1,5 +1,9 @@
 Cold and dry, but everything is in my favorite color
 
+<<<<<<< HEAD
 Venus should also be considered as a base.
 It is a lovely planet.
+=======
+
+>>>>>>> 120bbce7a9bcaf62267ec423d3fce8883e87c2f8
 
